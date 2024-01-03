@@ -1,5 +1,5 @@
 <ModOps>
-  <ModOp GUID="1600020000" tye="addNextSibling">
+  <ModOp GUID="130216" Type="addNextSibling">
     <Asset>
       <Template>Trigger</Template>
       <Values>
@@ -43,4 +43,5 @@
         <TriggerSetup />
       </Values>
     </Asset>
+  </ModOp>
 </ModOps>
